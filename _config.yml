@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jérôme Tubiana"
   avatar           : "photo_2021.png"
-  bio              : "Senior Lecturer (Assistant Professor) in the School of Computer Science, Tel Aviv University. Working on applications of Machine Learning for Structural Biology"
-  location         : "Tel Aviv, Israel"
-  employer         :
+  bio              : "Senior Lecturer (Assistant Professor) at the School of Computer Science, Tel Aviv University."
+  location         : "Schreiber 211, TAU, Tel Aviv"
+  employer         : "Tel Aviv University"
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=jerome+Tubiana&sort=date"
   googlescholar    : "https://scholar.google.com/citations?user=now0aJ0AAAAJ&hl=en"
-  email            : "jeromet AT mail DOT tau DOT ac DOT il ; jertubiana AT gmail DOT com"
+  email            : "jeromet@mail.tau.ac.il"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/jérôme-tubiana-13464b72/"
+  linkedin         : "jérôme-tubiana-13464b72/"
   orcid            : "https://orcid.org/0000-0001-8878-5620"
   pinterest        :
   soundcloud       :
