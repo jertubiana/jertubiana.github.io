@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Jérôme Tubiana"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Jérôme Tubiana"
+description              : &description "Senior Lecturer (Assistant Professor) @ TAU"
+url                      : https://jertubiana.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "jertubiana/jertubiana.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Jérôme Tubiana"
+  avatar           : "photo_2021.png"
+  bio              : "Senior Lecturer (Assistant Professor) in the School of Computer Science, Tel Aviv University. Working on applications of Machine Learning for Structural Biology"
+  location         : "Tel Aviv, Israel"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=jerome+Tubiana&sort=date"
+  googlescholar    : "https://scholar.google.com/citations?user=now0aJ0AAAAJ&hl=en"
+  email            : "jeromet AT mail DOT tau DOT ac DOT il ; jertubiana AT gmail DOT com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "jertubiana"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/jérôme-tubiana-13464b72/"
+  orcid            : "https://orcid.org/0000-0001-8878-5620"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "TubianaJerome"
   vine             :
   weibo            :
   xing             :
