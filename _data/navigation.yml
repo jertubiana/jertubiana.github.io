@@ -16,8 +16,8 @@ main:
   - title: "Software"
     url: /software/
 
-  - title: "Contact"
-    url: /contact/
+#  - title: "Contact"
+#    url: /contact/
 
 
 #  - title: "Talks"

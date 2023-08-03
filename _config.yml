@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Jérôme Tubiana"
-  avatar           : "photo_2021.png"
+  avatar           : "self/photo_2021.png"
   bio              : "Senior Lecturer (Assistant Professor) at the School of Computer Science, Tel Aviv University."
-  location         : "Schreiber 211, TAU, Tel Aviv"
+  location         : "Schreiber 211"
   employer         : "Tel Aviv University"
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=jerome+Tubiana&sort=date"
   googlescholar    : "https://scholar.google.com/citations?user=now0aJ0AAAAJ&hl=en"
@@ -132,6 +132,7 @@ exclude:
   - CHANGELOG
   - Capfile
   - Gemfile
+  - Gemfile_original
   - Gruntfile.js
   - LICENSE
   - README

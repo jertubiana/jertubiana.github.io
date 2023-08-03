@@ -26,16 +26,16 @@ import re
 
 #todo: incorporate different collection types rather than a catch all publications, requires other changes to template
 publist = {
-    "proceeding": {
-        "file" : "proceedings.bib",
-        "venuekey": "booktitle",
-        "venue-pretext": "In the proceedings of ",
-        "collection" : {"name":"publications",
-                        "permalink":"/publication/"}
+    # "proceeding": {
+    #     "file" : "proceedings.bib",
+    #     "venuekey": "booktitle",
+    #     "venue-pretext": "In the proceedings of ",
+    #     "collection" : {"name":"publications",
+    #                     "permalink":"/publication/"}
         
-    },
+    # },
     "journal":{
-        "file": "pubs.bib",
+        "file": "../MyPublications/myBibliography.bib",
         "venuekey" : "journal",
         "venue-pretext" : "",
         "collection" : {"name":"publications",
@@ -66,6 +66,7 @@ for pubsource in publist:
         pub_day = "01"
         
         b = bibdata.entries[bib_id].fields
+
         
         try:
             pub_year = f'{b["year"]}'
@@ -135,19 +136,30 @@ for pubsource in publist:
                     md += "\npaperurl: '" + b["url"] + "'"
                     url = True
 
-            md += "\ncitation: '" + html_escape(citation) + "'"
+            pdf = False
+            if "file" in b.keys():
+                if len(str(b["file"])) > 5:
+                    filename = b["file"].split(':application')[0].split('/')[-1]
+                    md += "\npaperpdf: '" + "/files/" + filename + "'"
+                    pdf = True
 
+
+            md += "\ncitation: '" + html_escape(citation) + "'"
             md += "\n---"
 
             
             ## Markdown description for individual page
-            if note:
-                md += "\n" + html_escape(b["note"]) + "\n"
+            # if note:
+            #     md += "\n" + html_escape(b["note"]) + "\n"
 
-            if url:
-                md += "\n[Access paper here](" + b["url"] + "){:target=\"_blank\"}\n" 
-            else:
-                md += "\nUse [Google Scholar](https://scholar.google.com/scholar?q="+html.escape(clean_title.replace("-","+"))+"){:target=\"_blank\"} for full citation"
+            if "abstract" in b.keys():
+                if len(str(b["abstract"])) > 5:                
+                    md += "\n" + '<b> Abstract: </b>' + html_escape(b["abstract"]) + "\n"
+
+            # if url:
+            #     md += "\n[Link](" + b["url"] + "){:target=\"_blank\"}\n" 
+            # else:
+            #     md += "\n[Google Scholar](https://scholar.google.com/scholar?q="+html.escape(clean_title.replace("-","+"))+"){:target=\"_blank\"} for full citation"
 
             md_filename = os.path.basename(md_filename)
 

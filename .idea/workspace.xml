@@ -1,7 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f7e6478-0aa7-4b19-aedb-1ae4e14032fb" name="Default Changelist" comment="" />
+    <list default="true" id="2f7e6478-0aa7-4b19-aedb-1ae4e14032fb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_publications/2017-03-01-Emergence-of-Compositional-Representations-in-Restricted-Boltzmann-Machines.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_publications/2019-03-01-Learning-protein-constitutive-motifs-from-sequence-data.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_publications/2019-08-01-Learning-Compositional-Representations-of-Interacting-Systems-with-Restricted-Boltzmann-Machines-Comparative-Study-of-Lattice-Proteins.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_publications/2020-01-01-Inference-of-compressed-Potts-graphical-models.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_publications/2020-04-01-Place-cell-emergence-and-learning-of-invariant-data-with-restricted-Boltzmann-machines-breaking-and-dynamical-restoration-of-continuous-symmetries-in-the-weight-space.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_publications/2020-08-01-Blind-deconvolution-for-spike-inference-from-fluorescence-recordings.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_publications/2021-02-01-RBM-MHC-A-Semi-Supervised-Machine-Learning-Method-for-Sample-Specific-Prediction-of-Antigen-Presentation-by-HLA-I-Alleles.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_publications/2022-06-01-ScanNet-an-interpretable-geometric-deep-learning-model-for-structure-based-protein-binding-site-prediction.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_publications/2022-06-01-Superimmunity-by-pan-sarbecovirus-nanobodies.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_publications/2022-09-01-Reduced-B-cell-antigenicity-of-Omicron-lowers-host-serologic-response.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_publications/2022-10-01-ScanNet-A-Web-Server-for-Structure-based-Prediction-of-Protein-Binding-Sites-with-Geometric-Deep-Learning.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_publications/2023-01-01-Neural-assemblies-uncovered-by-generative-modeling-explain-whole-brain-activity-statistics-and-reflect-structural-connectivity.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_publications/2023-02-01-Funneling-modulatory-peptide-design-with-generative-models-Discovery-and-characterization-of-disruptors-of-calcineurin-protein-protein-interactions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_publications/2023-06-01-Machine-learning-for-evolutionary-based-and-physics-inspired-protein-design-Current-and-future-synergies.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_publications/2023-07-01-EvoRator2-Predicting-Site-specific-Amino-Acid-Substitutions-Based-on-Protein-Structural-Information-Using-Deep-Learning.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_teaching/course_CSB.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_teaching/course_MLCB.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_teaching_previous/2022/workshop_AISB_2022.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/archive-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/archive-single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer/custom.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer/custom.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/social-share.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/social-share.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/publications.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/publications.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/research.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/research.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/software.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/software.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/teaching.html" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/teaching.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_publications/2009-10-01-paper-title-number-1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_publications/2010-10-01-paper-title-number-2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_publications/2015-10-01-paper-title-number-3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_teaching/workshop_AISB_2022.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_teaching/workshop_AISB_2023.md" beforeDir="false" afterPath="$PROJECT_DIR$/_teaching/workshop_AISB.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photo_2021.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/spike_protein.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/markdown_generator/pubsFromBib.py" beforeDir="false" afterPath="$PROJECT_DIR$/markdown_generator/pubsFromBib.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,24 +63,40 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2S96nKImhhfHaLkvdAodGX0JMBZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_teaching" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/jerometubiana/Documents/GitHub/jertubiana.github.io",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/_teaching" />
       <recent name="$PROJECT_DIR$/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_pages" />
+      <recent name="$PROJECT_DIR$/_teaching" />
+      <recent name="$PROJECT_DIR$/_teaching_previous" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/_teaching/2022" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -46,7 +107,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1688546614996</updated>
-      <workItem from="1688546617266" duration="8640000" />
+      <workItem from="1688546617266" duration="10139000" />
+      <workItem from="1690971665456" duration="22110000" />
     </task>
     <servers />
   </component>
