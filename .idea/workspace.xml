@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2f7e6478-0aa7-4b19-aedb-1ae4e14032fb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/group.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/group.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/self/~$SARS-CoV-2.pptx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +71,7 @@
       <workItem from="1690971665456" duration="23758000" />
       <workItem from="1693830384076" duration="5631000" />
       <workItem from="1694498318266" duration="1075000" />
-      <workItem from="1698251825193" duration="3534000" />
+      <workItem from="1698251825193" duration="5045000" />
     </task>
     <servers />
   </component>
