@@ -27,12 +27,7 @@ redirect_from:
   <td style="border: none;"> </td>
   </tr>
 <tr style="border: none;">
-  <td style="border: none;"> <p style="text-align: center; font-size: 20px;">Hagai Ravid (M.Sc.)</p> </td>
-  <td style="border: none;"> <p style="text-align: center; font-size: 20px">Daniel Brotzky (M.Sc.)<br> Joint with Haim Wolfson</p> </td>
-  <td style="border: none;"> </td>
-  </tr>
-  <td style="border: none;"> <p style="text-align: center; font-size: 20px;">Hagai Ravid (M.Sc.)</p> </td>
+  <td style="border: none;"> <p style="text-align: center; font-size: 20px;">Hagai Ravid (M.Sc.) <br> Joint with Haim Wolfson</p> </td>
   <td style="border: none;"> <p style="text-align: center; font-size: 20px">Anna Berdichevskaia (M.Sc., project student)</p> </td>
-  <td style="border: none;"> </td>
   </tr>
 </table>
