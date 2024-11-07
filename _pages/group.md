@@ -20,13 +20,14 @@ redirect_from:
     <td style="border: none;"> <img src="/images/self/group/omriyakir.jpg" style="width:100%"> </td> 
     <td style="border: none;"> </td>
     <td style="border: none;"> </td>
-    <td style="border: none;"> </td>
+    <td style="border: none;">  <img src="images/self/group/AnnaBerdichevskaia.jpg" style="width:33%"> </td> 
+    <td style="border: none;">  <img src="images/self/group/AlmogBoaron.jpg" style="width:50%"> </td> 
   </tr>
 <tr style="border: none;">
   <td style="border: none;"> <p style="text-align: center; font-size: 20px;">Omri Yakir (M.Sc.)</p> </td>
   <td style="border: none;"> <p style="text-align: center; font-size: 20px">Daniel Brotzky (M.Sc.)<br> Joint with Haim Wolfson</p> </td>
   <td style="border: none;"> <p style="text-align: center; font-size: 20px">Hagai Ravid (M.Sc.)<br> Joint with Haim Wolfson</p> </td>
-  <td style="border: none;"> </td>
-  <td style="border: none;"> <p style="text-align: center; font-size: 20px">Anna Berdichevskaia (M.Sc., project student)</p> </td>  
+  <td style="border: none;"> <p style="text-align: center; font-size: 20px">Almog Boaron (M.Sc.)<br> Joint with Haim Wolfson</p> </td>
+  <td style="border: none;"> <p style="text-align: center; font-size: 20px">Anna Berdichevskaia (M.Sc.)</p> </td>  
   </tr>
 </table>
