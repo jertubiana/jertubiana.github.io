@@ -5,7 +5,7 @@ type: "Elective Course (CS/Bioinformatics M.Sc. open to undergraduates)"
 permalink: /teaching/course_MLCB
 location: "Tel Aviv, Israel"
 venue: "Tel Aviv University, School of Computer Science"
-date: 2024-01-03
+date: 2025-01-03
 ---
 
 ## Summary
@@ -25,4 +25,4 @@ The algorithms will be illustrated on various biological systems (brain recordin
 - Topic 8: Generative models (latent variable models, diffusion models).
 
 ## Course link
-[Course number: 0368.4238](https://www.ims.tau.ac.il/Tal/Syllabus/Syllabus_L.aspx?course=03684238&year=2023&lang=EN)
+[Course number: 0368.4238](https://www.ims.tau.ac.il/Tal/Syllabus/Syllabus_L.aspx?course=0368423801&year=2024&lang=EN)
