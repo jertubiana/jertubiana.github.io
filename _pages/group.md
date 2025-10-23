@@ -32,7 +32,7 @@ redirect_from:
   <tr style="border: none;">
     <td style="border: none;">  <img src="/images/self/group/almog_boaron_small.jpg" style="width:100%"></td> 
     <td style="border: none;">  <img src="/images/self/group/dori_rimon.jpg" style="width:100%"></td>
-    <td style="border: none;">  <img src="/images/self/group/shir_biran.jpg" style="width:100%"></td>
+    <td style="border: none;">  <img src="/images/self/group/shir_biran.jpeg" style="width:100%"></td>
     <td style="border: none;">  <img src="/images/self/group/nur_nachshon_raz.jpg" style="width:100%"></td>     
   </tr>
   <tr style="border: none;">
