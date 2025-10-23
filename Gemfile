@@ -13,12 +13,14 @@ source "https://rubygems.org"
 
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
-
+gem "csv"
+gem "base64"
 gem "jekyll"
 gem "jekyll-paginate"
 gem "jekyll-gist"
 gem "jekyll-redirect-from"
 gem "kramdown-parser-gfm"
+gem "bigdecimal"
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
