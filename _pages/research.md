@@ -21,14 +21,14 @@ The network learns structural motifs of interest directly from raw data; we foun
 See <a href="https://www.nature.com/articles/s41592-022-01490-7"> the original article</a> and <a href="https://www.nature.com/articles/s41592-022-01492-5"> the research briefing </a> for more information.
 More broadly, we aim to leverage geometric deep learning to decipher the link between the structure and function of proteins.
 
-## Monitoring viral evolution with geometric deep learning
+<!-- ## Monitoring viral evolution with geometric deep learning
 
 ![](/images/self/SARS-CoV-2.png)
 
 The Spike protein of the SARS-CoV-2 virus continuously mutates in order to evade antibodies elicited by vaccine or prior infections, resulting in breakthrough reinfections.
 To elucidate the mechanism underlying evasion, we used the ScanNet antibody binding site prediction model to investigate the impact of mutation on antigenicity of the spike protein.
 We found that many of the defining mutations of the Omicron variant significantly reduced antigenicity (_i.e._ the ability to be bound by antibodies) compared to previous variants. Accordingly, our experimental collaborators found that immunization of mice against the Omicron variant resulted in weaker serologic response from the host.  
-Finally, we found a similar trend of antigenicity reduction over decades for hCoV229E, a common cold coronavirus. Thus our study reveals a possible trajectory of future viral evolution and an important component of viral fitness. See <a href="https://doi.org/10.1016/j.celrep.2022.111512"> the original article</a> for more information.
+Finally, we found a similar trend of antigenicity reduction over decades for hCoV229E, a common cold coronavirus. Thus our study reveals a possible trajectory of future viral evolution and an important component of viral fitness. See <a href="https://doi.org/10.1016/j.celrep.2022.111512"> the original article</a> for more information. -->
 
 ## Generative models for peptide binder design
 
